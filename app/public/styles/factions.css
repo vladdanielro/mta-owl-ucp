@@ -1,0 +1,210 @@
+@media only screen and (min-width: 1024px) {
+
+        .navbar {
+            background-color: #4b0082; 
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            padding-top: 0;
+        }
+
+     
+        .logo {
+            font-size: 24px;
+            color: #fff;
+            font-weight: bold; 
+        }
+
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+        }
+
+     
+        .nav-links li {
+            margin-right: 20px;
+        }
+
+   
+        .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            transition: color 0.3s;
+        }
+
+
+        .nav-links a:hover {
+            color: #ffd700; 
+        }
+
+        .logout-link {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+                .rlogout-link {
+            text-decoration: none;
+            color: black;
+             font-size: 13px;
+             text-align: center;
+             display: none;
+        }
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4b0082;
+    color: #fff;
+    padding: 20px;
+}
+
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.character-list {
+    list-style: none;
+    padding: 0;
+}
+
+
+.character-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.character-name {
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+
+.character-details {
+    font-size: 14px;
+    color: #777;
+}
+.account {
+  color: black;
+}
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+        .navbar {
+            background-color: #4b0082; /* Culoarea mov inchis */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            font-family: Arial, sans-serif; /* Fontul mai drept */
+            padding-top: 0;
+        }
+
+
+        .logo {
+            font-size: 16px;
+            color: #fff;
+            font-weight: bold; 
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+              font-size: 13px;
+        }
+
+
+        .nav-links li {
+            margin-right: 17px;
+        }
+
+
+        .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            transition: color 0.3s;
+        }
+
+
+        .nav-links a:hover {
+            color: #ffd700; /* Culoarea galbenă la hover */
+        }
+
+
+        .logout-link {
+            text-decoration: none;
+            color: black;
+             font-size: 13px;
+             text-align: center;
+             display: none;
+        }
+                .rlogout-link {
+            text-decoration: none;
+            color: black;
+             font-size: 13px;
+             text-align: center;
+        }
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4b0082;
+    color: #fff;
+    padding: 20px;
+}
+
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.character-list {
+    list-style: none;
+    padding: 0;
+}
+
+.character-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.character-name {
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+
+
+.character-details {
+    font-size: 14px;
+    color: #777;
+}
+.account {
+  color: black;
+}
+}
