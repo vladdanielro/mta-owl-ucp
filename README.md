@@ -13,7 +13,9 @@ O simpla aplicatie in NodeJS ce se conecteaza la baza de date a serverului tau d
 
 # DEMO 
 https://mtalivepanel.gloxynetwork.com/
+
 USERNAME: thedomn
+
 PASSWORD: demo
 
 # AI NEVOIE DE AJUTOR?
