@@ -9,7 +9,7 @@ var port     = process.env.PORT || 3000;
 
 
 
-app.use(session({secret: 'New##123'}));
+app.use(session({secret: 'New##123'})); // schimba valoarea asta pentru motve de siguranta, recomand sa faci o variabila random
 
 
 
