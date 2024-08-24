@@ -12,11 +12,7 @@ O simpla aplicatie in NodeJS ce se conecteaza la baza de date a serverului tau d
 - Daca aveti nevoie de ajutor cu modificarea acestuia imi puteti lasa mesaj pe discord.
 
 # DEMO 
-https://mtalivepanel.gloxynetwork.com/
-
-USERNAME: thedomn
-
-PASSWORD: demo
+invalid temporar.
 
 # AI NEVOIE DE AJUTOR?
-- https://discord.com/invite/jSFpb4ShVh
+- [Discord Server](https://discord.gg/eUSYYk7S7N)
