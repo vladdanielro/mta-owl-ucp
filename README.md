@@ -11,8 +11,6 @@ O simpla aplicatie in NodeJS ce se conecteaza la baza de date a serverului tau d
 - Il poti hosta pe localhost, un VPS sau pe un serviciu de gazduire web ce accepta aplicatii de NodeJS.
 - Daca aveti nevoie de ajutor cu modificarea acestuia imi puteti lasa mesaj pe discord.
 
-# DEMO 
-invalid temporar.
 
 # AI NEVOIE DE AJUTOR?
-- [Discord Server](https://discord.gg/eUSYYk7S7N)
+- [Discord Server](https://discord.gg/HYc2hePeeU)
